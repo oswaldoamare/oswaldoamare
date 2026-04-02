@@ -47,5 +47,6 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 ## 🔗 Conectemos
 [Substack](https://oswaldoamare.substack.com) | [Medium](https://oswaldoamare.medium.com) | [LinkedIn](https://www.linkedin.com/in/oswaldo-a-0373a7b5)
 **Autor:** Oswaldo Jesús Amaré Walfenzao
-all rights reserved  
+
+©All rights reserved  
 ©Todos los Derechos Reservados 
