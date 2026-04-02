@@ -16,6 +16,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 ### 🧠 Human Prompting (Comunicación Contextual)
 * **Fórmula ECOA:** – El estándar para instrucciones estratégicas.
 * **Método SCOPE:** Gestión de la integridad y alcance del mensaje ejecutivo.
+* ©Todos los Derechos Reservados 
 
 ### 📈 El Algoritmo de la Experiencia
 * **Fórmula Vex (Vigencia Exponencial):** 
@@ -25,6 +26,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
     2. **E - Enmarcar** con Contexto Humano (Alquimia del Asfalto).
     3. **R - Robustecer** con Diversidad Cognitiva.
     4. **A - Asumir** la Responsabilidad Final (Soberanía del Criterio).
+©Todos los Derechos Reservados 
 
 ---
 
@@ -32,13 +34,14 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 * **Alquimia del Asfalto y el Bit:** Fusión de sabiduría táctica real y analítica digital.
 * **Análisis Contextual:** Contexto cualitativo detrás de la cifra.
 * **Soberanía del Dato:** El líder como orquestador de ecosistemas digitales.
+* ©Todos los Derechos Reservados 
 
 ---
 
 ## 📚 Publicaciones
 * **Human Prompting:** Master Executive Communication (2026).
 * **El Algoritmo de la Experiencia:** El valor del Seniority (2026).
-
+©Todos los Derechos Reservados 
 ---
 
 ## 🔗 Conectemos
