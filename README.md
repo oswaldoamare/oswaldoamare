@@ -18,7 +18,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 * **Método SCOPE:** Gestión de la integridad y alcance del mensaje ejecutivo.
 
 ### 📈 El Algoritmo de la Experiencia
-* **Fórmula Vex (Vigencia Exponencial):** `Vex = ((Ec × Ta) + Is) / Ca`
+* **Fórmula Vex (Vigencia Exponencial):** 
     * *Experiencia Crítica e Integración Tecnológica 
 * **Marco V.E.R.A. (Protocolo de Integridad):**
     1. **V - Validar** el Origen y los Datos.
