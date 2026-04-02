@@ -14,12 +14,12 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 *Registros Safe Creative: 2602144559864*
 
 ### 🧠 Human Prompting (Comunicación Contextual)
-* **Fórmula ECOA:** (Entity, Context, Objective, Action) – El estándar para instrucciones estratégicas.
+* **Fórmula ECOA:** – El estándar para instrucciones estratégicas.
 * **Método SCOPE:** Gestión de la integridad y alcance del mensaje ejecutivo.
 
 ### 📈 El Algoritmo de la Experiencia
 * **Fórmula Vex (Vigencia Exponencial):** `Vex = ((Ec × Ta) + Is) / Ca`
-    * *Experiencia Crítica + Tecnología Aplicada + Instinto de Síntesis / Costo de Aprendizaje.*
+    * *Experiencia Crítica e Integración Tecnológica 
 * **Marco V.E.R.A. (Protocolo de Integridad):**
     1. **V - Validar** el Origen y los Datos.
     2. **E - Enmarcar** con Contexto Humano (Alquimia del Asfalto).
