@@ -48,5 +48,20 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 [Substack](https://oswaldoamare.substack.com) | [Medium](https://oswaldoamare.medium.com) | [LinkedIn](https://www.linkedin.com/in/oswaldo-a-0373a7b5)
 **Autor:** Oswaldo Jesús Amaré Walfenzao
 
+# Mis artículos y posts
+
+## Substack
+
+### 1. [Nota en Substack](https://substack.com/@oswaldoamare/note/c-237311272?r=7z3adf)
+
+[![Imagen Nota 1](https://github.com/user-attachments/assets/6949bffd-be80-4b1d-bcb2-332244ff6899)](https://substack.com/@oswaldoamare/note/c-237311272?r=7z3adf)
+
+---
+
+### 2. [El nuevo mapa de ruta: Desmitificando...](https://open.substack.com/pub/oswaldoamare/p/el-nuevo-mapa-de-ruta-desmitificando?utm_source=share&utm_medium=android&r=7z3adf)
+
+[![Imagen Noticia 2](https://github.com/user-attachments/assets/086dcaa5-3261-4ec6-9184-696c47588b31)](https://open.substack.com/pub/oswaldoamare/p/el-nuevo-mapa-de-ruta-desmitificando?utm_source=share&utm_medium=android&r=7z3adf)
+
 ©All rights reserved  
 ©Todos los Derechos Reservados 
+
