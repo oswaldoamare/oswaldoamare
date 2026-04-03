@@ -61,7 +61,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## Medium
 
-### [Your 'Personal Brand' Is Dead: The Alarming Collapse of Strategic Leadership in the Age of… (Issue #3)](https://github.com/oswaldoamare/oswaldoamare/issues/3)
+### [Your 'Personal Brand' Is Dead: The Alarming Collapse of Strategic Leadership in the Age of… (Issue #2)](https://github.com/oswaldoamare/oswaldoamare/issues/3)
 
 [Read on Medium](https://oswaldoamare.medium.com/your-personal-brand-is-dead-the-alarming-collapse-of-strategic-leadership-in-the-age-of-48128e96833d)
 
@@ -69,7 +69,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [LA EXPERIENCIA NO SE JUBILA, SE ACTUALIZA, SE INTEGRA Y SE CODIFICA (Issue #4)](https://github.com/oswaldoamare/oswaldoamare/issues/4)
+### [LA EXPERIENCIA NO SE JUBILA, SE ACTUALIZA, SE INTEGRA Y SE CODIFICA (Issue #3)](https://github.com/oswaldoamare/oswaldoamare/issues/4)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
@@ -77,7 +77,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA (Issue #5)](https://github.com/oswaldoamare/oswaldoamare/issues/5)
+### [2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA (Issue #4)](https://github.com/oswaldoamare/oswaldoamare/issues/5)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7439327513543245826-bM70?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
@@ -85,7 +85,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [THE SINGLE ANSWER (Issue #6)](https://github.com/oswaldoamare/oswaldoamare/issues/6)
+### [THE SINGLE ANSWER (Issue #5)](https://github.com/oswaldoamare/oswaldoamare/issues/6)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7437980191680909316-LdvP?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
@@ -93,7 +93,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [Del Funnel al Growth Loop: Reinventando la Estrategia Comercial en Mercados Maduros (Issue #7)](https://github.com/oswaldoamare/oswaldoamare/issues/7)
+### [Del Funnel al Growth Loop: Reinventando la Estrategia Comercial en Mercados Maduros (Issue #6)](https://github.com/oswaldoamare/oswaldoamare/issues/7)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
