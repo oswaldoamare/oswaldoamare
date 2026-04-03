@@ -78,6 +78,13 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![LA EXPERIENCIA NO SE JUBILA](https://github.com/user-attachments/assets/da093237-ae2c-4079-8f54-3fbf3cd12810)](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
+## LinkedIn
+
+### [2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA (Issue #5)](https://github.com/oswaldoamare/oswaldoamare/issues/5)
+
+[Leer en LinkedIn](https://www.linkedin.com/posts/activity-7439327513543245826-bM70?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+
+[![2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA](https://github.com/user-attachments/assets/6263a9dc-27e0-4115-8ea3-af06dc335eb3)](https://www.linkedin.com/posts/activity-7439327513543245826-bM70?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
 
 ©All rights reserved  
