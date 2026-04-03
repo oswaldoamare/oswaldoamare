@@ -150,10 +150,9 @@ Especialista en la **Construcción y Alineación de Ecosistemas Digitales de Alt
 
 [![Human Prompting (English Edition)](https://img.shields.io/badge/Buy-HUMAN_PROMPTING-0077B5?style=for-the-badge&logo=bookstack)](https://books2read.com/HumanPrompting-Oswaldo-Amare)
 
-[![El Algoritmo de la Experiencia (Edición Español)](https://img.shields.io/badge/Comprar-ALGORITMO_EXPERIENCIA-E67E22?style=for-the-badge&logo=bookstack)](https://books2read.com/ElAlgoritmodelaExperienciaOswaldoAmare)
+[![El Algoritmo De La Experiencia (Edición Español)](https://img.shields.io/badge/Comprar-ALGORITMO_EXPERIENCIA-E67E22?style=for-the-badge&logo=bookstack)](https://books2read.com/ElAlgoritmodelaExperienciaOswaldoAmare)
 
-*© 2026 Oswaldo Jesús Amaré Walfenzao. Todos los derechos reservados.*
-
+*© 2026 Oswaldo Amaré. Todos los derechos reservados.*
 
 
 ©All rights reserved  
