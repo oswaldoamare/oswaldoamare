@@ -78,6 +78,8 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![LA EXPERIENCIA NO SE JUBILA](https://github.com/user-attachments/assets/da093237-ae2c-4079-8f54-3fbf3cd12810)](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
+
+
 ©All rights reserved  
 ©Todos los Derechos Reservados 
 
