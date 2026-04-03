@@ -105,6 +105,12 @@ https://www.linkedin.com/posts/activity-7435606243387396097-Lmsb?utm_source=shar
 
 ![IMG-20260403-WA0001.jpg](https://github.com/user-attachments/assets/2cd4f500-2d27-4f8f-b917-3443f79d118b)
 
+EL ALGORITMO DE LA EXPERIENCIA por Oswaldo Amaré (Issue #9)
+
+https://www.linkedin.com/posts/activity-7434458567736311808-rRb7?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
+
+![IMG-20260403-WA0002.jpg](https://github.com/user-attachments/assets/92275a1a-2dc1-4eca-a895-96417546c5a6)
+
 
 
 
