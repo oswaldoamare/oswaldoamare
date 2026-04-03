@@ -2,13 +2,9 @@ Oswaldo Amaré
 
 # Oswaldo Amaré | Chief Commercial Officer 👋
 
-Oswaldo Amaré 
-
-# Oswaldo Amaré | Chief Commercial Officer 👋
 
 
-
-## 🚀 Estratega de Crecimiento | Arquitecto de Seniority 5.0
+## 🚀 Arquitecto de Crecimiento |Estratega de Negocios |Orquestador de Ecosistemas Digitales.
 
 Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ecosistema de metodologías diseñadas para gobernar la intersección entre el criterio humano y la inteligencia artificial.
 
