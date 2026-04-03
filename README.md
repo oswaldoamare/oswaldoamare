@@ -99,6 +99,13 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![Del Funnel al Growth Loop](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
+ARCHITECTURE OF INTENT: HUMAN PROMPTING by Oswaldo Amaré (Issue #8)
+
+https://www.linkedin.com/posts/activity-7435606243387396097-Lmsb?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
+
+![IMG-20260403-WA0001.jpg](https://github.com/user-attachments/assets/2cd4f500-2d27-4f8f-b917-3443f79d118b)
+
+
 
 
 ©All rights reserved  
