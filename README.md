@@ -99,12 +99,6 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![Del Funnel al Growth Loop](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
-EL ALGORITMO DE LA EXPERIENCIA: La Rebelión del Criterio por Oswaldo Amaré (Issue #8)
-
-https://open.substack.com/pub/oswaldoamare/p/el-algoritmo-de-la-experiencia-por?utm_source=share&utm_medium=android&r=7z3adf![https%3A
-
-
-![20260330_021304_0000.jpg](https://github.com/user-attachments/assets/f7fe3603-79e9-4aae-959a-e2339b004d14)
 
 
 ©All rights reserved  
