@@ -130,6 +130,9 @@ https://www.linkedin.com/posts/activity-7443151805343039488-msKO?utm_source=shar
 ©All rights reserved  
 ©Todos los Derechos Reservados 
 
+"Para licencias corporativas o implementación de metodologías, contactar vía LinkedIn".
+
+
 
 ## 🎯 Fractional Management  y Consultoría Estratégica 
 
