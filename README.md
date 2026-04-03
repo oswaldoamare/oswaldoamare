@@ -94,6 +94,14 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![THE SINGLE ANSWER](https://github.com/user-attachments/assets/d63f123f-e212-475f-9053-dc6d8b3df1ec)](https://www.linkedin.com/posts/activity-7437980191680909316-LdvP?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
+## LinkedIn
+
+### [Del Funnel al Growth Loop: Reinventando la Estrategia Comercial en Mercados Maduros (Issue #7)](https://github.com/oswaldoamare/oswaldoamare/issues/7)
+
+[Leer en LinkedIn](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+
+[![Del Funnel al Growth Loop](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+
 
 ©All rights reserved  
 ©Todos los Derechos Reservados 
