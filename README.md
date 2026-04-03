@@ -111,6 +111,20 @@ https://www.linkedin.com/posts/activity-7434458567736311808-rRb7?utm_source=shar
 
 ![IMG-20260403-WA0002.jpg](https://github.com/user-attachments/assets/92275a1a-2dc1-4eca-a895-96417546c5a6)
 
+HUMAN PROMPTING by Oswaldo Amaré AVAILABLE NOW ON HOOPLA (Isue #10)
+
+🇺🇸 ATTENTION USERS OF PUBLIC LIBRARIES ACROSS THE USA:
+
+You can now access "Human Prompting" for FREE through the HOOPLA Digital platform. 🏛️✨
+
+IF YOU HAVE A LIBRARY CARD FROM ANY PUBLIC LIBRARY  IN  THE  UNITED STATES 🇺🇸, YOU  CAN START READING TO THE BOOK INMEDIATELY—NO WAITING LIST, NO COST.
+
+https://www.linkedin.com/posts/activity-7443151805343039488-msKO?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
+
+
+![IMG-20260327-WA0000~2.jpg](https://github.com/user-attachments/assets/48a8bf6e-8279-4205-816d-e1d1c0479a67)
+
+
 
 
 ©All rights reserved  
