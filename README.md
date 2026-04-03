@@ -69,7 +69,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [LA EXPERIENCIA NO SE JUBILA, SE ACTUALIZA, SE INTEGRA Y SE CODIFICA (Issue #3)](https://github.com/oswaldoamare/oswaldoamare/issues/4)
+### [La Experiencia no se Jubila,se Actualiza,se Integra y se Codifica (Issue #3)](https://github.com/oswaldoamare/oswaldoamare/issues/4)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
@@ -77,7 +77,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA (Issue #4)](https://github.com/oswaldoamare/oswaldoamare/issues/5)
+### [2026 El Global Reset de la Industria Farmacéutica (Issue #4)](https://github.com/oswaldoamare/oswaldoamare/issues/5)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7439327513543245826-bM70?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
@@ -85,7 +85,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ## LinkedIn
 
-### [THE SINGLE ANSWER (Issue #5)](https://github.com/oswaldoamare/oswaldoamare/issues/6)
+### [The Single Answer (Issue #5)](https://github.com/oswaldoamare/oswaldoamare/issues/6)
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7437980191680909316-LdvP?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
@@ -99,19 +99,19 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![Del Funnel al Growth Loop](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
-ARCHITECTURE OF INTENT: HUMAN PROMPTING by Oswaldo Amaré (Issue #8)
+Architecture of Intent: Human Prompting by Oswaldo Amaré (Issue #8)
 
 https://www.linkedin.com/posts/activity-7435606243387396097-Lmsb?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
 
 ![IMG-20260403-WA0001.jpg](https://github.com/user-attachments/assets/2cd4f500-2d27-4f8f-b917-3443f79d118b)
 
-EL ALGORITMO DE LA EXPERIENCIA por Oswaldo Amaré (Issue #9)
+El Algoritmo de la Experiencia por Oswaldo Amaré (Issue #9)
 
 https://www.linkedin.com/posts/activity-7434458567736311808-rRb7?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
 
 ![IMG-20260403-WA0002.jpg](https://github.com/user-attachments/assets/92275a1a-2dc1-4eca-a895-96417546c5a6)
 
-HUMAN PROMPTING by Oswaldo Amaré AVAILABLE NOW ON HOOPLA (Isue #10)
+Human Prompting by Oswaldo Amaré Available Now on HOOPLA (Isue #10)
 
 🇺🇸 ATTENTION USERS OF PUBLIC LIBRARIES ACROSS THE USA:
 
