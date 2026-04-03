@@ -70,6 +70,14 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![Your 'Personal Brand' Is Dead](https://github.com/user-attachments/assets/e9cbf781-ecb9-4dad-8973-e3ef0d41b1da)](https://oswaldoamare.medium.com/your-personal-brand-is-dead-the-alarming-collapse-of-strategic-leadership-in-the-age-of-48128e96833d)
 
+## LinkedIn
+
+### [LA EXPERIENCIA NO SE JUBILA, SE ACTUALIZA, SE INTEGRA Y SE CODIFICA (Issue #4)](https://github.com/oswaldoamare/oswaldoamare/issues/4)
+
+[Leer en LinkedIn](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+
+[![LA EXPERIENCIA NO SE JUBILA](https://github.com/user-attachments/assets/da093237-ae2c-4079-8f54-3fbf3cd12810)](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+
 ©All rights reserved  
 ©Todos los Derechos Reservados 
 
