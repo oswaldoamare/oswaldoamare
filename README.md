@@ -62,6 +62,14 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [![Imagen Noticia 2](https://github.com/user-attachments/assets/086dcaa5-3261-4ec6-9184-696c47588b31)](https://open.substack.com/pub/oswaldoamare/p/el-nuevo-mapa-de-ruta-desmitificando?utm_source=share&utm_medium=android&r=7z3adf)
 
+## Medium
+
+### [Your 'Personal Brand' Is Dead: The Alarming Collapse of Strategic Leadership in the Age of… (Issue #3)](https://github.com/oswaldoamare/oswaldoamare/issues/3)
+
+[Read on Medium](https://oswaldoamare.medium.com/your-personal-brand-is-dead-the-alarming-collapse-of-strategic-leadership-in-the-age-of-48128e96833d)
+
+[![Your 'Personal Brand' Is Dead](https://github.com/user-attachments/assets/e9cbf781-ecb9-4dad-8973-e3ef0d41b1da)](https://oswaldoamare.medium.com/your-personal-brand-is-dead-the-alarming-collapse-of-strategic-leadership-in-the-age-of-48128e96833d)
+
 ©All rights reserved  
 ©Todos los Derechos Reservados 
 
