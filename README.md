@@ -135,9 +135,10 @@ Read “Stop Prompting. Start Architecting.“ by Oswaldo Amaré on Medium: http
 🛡️ Certificación de Integridad y Propiedad Intelectual
 
 [!IMPORTANT]
+
 "Todos los activos estratégicos en este repositorio cuentan con certificación Blockchain y sellado de tiempo mediante OpenTimestamps."
-© 2026 Oswaldo Amaré. 
-©Todos los derechos reservados.
+
+© 2026 Oswaldo Amaré.Todos los derechos reservados
 ©All rights reserved. 
 
 
