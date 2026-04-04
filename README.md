@@ -125,6 +125,12 @@ https://www.linkedin.com/posts/activity-7443151805343039488-msKO?utm_source=shar
 ![IMG-20260327-WA0000~2.jpg](https://github.com/user-attachments/assets/48a8bf6e-8279-4205-816d-e1d1c0479a67)
 
 
+Stop Prompting:Start Architecting by Oswaldo Amaré (Issue #11)
+
+Read “Stop Prompting. Start Architecting.“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/stop-prompting-start-architecting-4b0ca8828c92
+
+![img_1775258348075.jpg](https://github.com/user-attachments/assets/12efeb03-a090-45eb-aa84-f07047cada7a)
+
 
 
 ©All rights reserved  
