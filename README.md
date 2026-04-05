@@ -131,6 +131,12 @@ Read “Stop Prompting. Start Architecting.“ by Oswaldo Amaré on Medium: http
 
 ![img_1775258348075.jpg](https://github.com/user-attachments/assets/12efeb03-a090-45eb-aa84-f07047cada7a)
 
+Demystifying the Social Media  Marketing Funnel: From Passive Flow to Growth Architecture By Oswaldo Amaré (Issue #12)
+
+https://www.linkedin.com/posts/oswaldo-amar%C3%A9-0373a7b5_growtharchitecture-oswaldoamare-b2bstrategy-share-7446232916633849856-ef2C?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
+
+![1775296933350.jpg](https://github.com/user-attachments/assets/5878de16-6fe1-4ccf-8fd1-e9758bc4d353)
+
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
 
