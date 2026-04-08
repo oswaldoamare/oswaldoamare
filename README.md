@@ -137,7 +137,7 @@ https://www.linkedin.com/posts/oswaldo-amar%C3%A9-0373a7b5_growtharchitecture-os
 
 ![1775296933350.jpg](https://github.com/user-attachments/assets/5878de16-6fe1-4ccf-8fd1-e9758bc4d353)
 
-La Arquitectura como Ventaja Competitiva por Oswaldo Amaré (Issue #13)
+La Arquitectura como Ventaja Competitiva por Oswaldo Amaré (Issue #13) Substack 
 
 https://substack.com/@oswaldoamare/note/c-239992219?r=7z3adf
 
