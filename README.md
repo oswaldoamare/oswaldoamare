@@ -143,6 +143,13 @@ https://substack.com/@oswaldoamare/note/c-239992219?r=7z3adf
 
 ![1775617977599.jpg](https://github.com/user-attachments/assets/8a86acec-c84b-41dd-a06d-ccbea522f418)
 
+"Principios Antiguos para el Liderazgo Moderno" by Oswaldo Amaré on Medium:(Issue #14)
+https://oswaldoamare.medium.com/principios-antiguos-para-el-liderazgo-moderno-4e9bdb69c0c6
+
+![IMG-20260410-WA0000.jpg](https://github.com/user-attachments/assets/bc9d33bd-0caa-48de-b384-60abba3d68e0)
+
+
+
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
 
