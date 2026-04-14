@@ -149,6 +149,15 @@ https://oswaldoamare.medium.com/principios-antiguos-para-el-liderazgo-moderno-4e
 ![IMG-20260410-WA0000.jpg](https://github.com/user-attachments/assets/bc9d33bd-0caa-48de-b384-60abba3d68e0)
 
 
+Seniority as the Operating System for Digital Transformation
+
+Why Senior Leaders aren't at risk from AI; they are at risk from a lack of "Mental Architecture."
+By Oswaldo Amaré on medium (Issue #15)
+
+Read “Seniority as the Operating System for Digital Transformation“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/seniority-as-the-operating-system-for-digital-transformation-bb08ea0f9873
+
+![1776142475955.jpg](https://github.com/user-attachments/assets/47faeaaf-ae23-4299-b4d5-feaa1005f15b)
+
 
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
