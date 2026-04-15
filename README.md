@@ -28,10 +28,6 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
     4. **A - Asumir** la Responsabilidad Final (Soberanía del Criterio).
 ©Todos los Derechos Reservados 
 
-## 📚 Frameworks 
-
-- [El Algoritmo de la Experiencia – Diagrama de flujo](docs/ElAlgoritmoDeLaExperiencia/algoritmo_experiencia.md)
-- [El Algoritmo de la Experiencia – Mapa mental](docs/ElAlgoritmoDeLaExperiencia/algoritmo_experiencia_mindmap.md)
 
 ---
 
