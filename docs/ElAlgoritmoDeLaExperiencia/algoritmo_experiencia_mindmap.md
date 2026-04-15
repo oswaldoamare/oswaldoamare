@@ -1,9 +1,9 @@
 # El Algoritmo de la Experiencia – Oswaldo Amaré
 
-Este repositorio constituye el **Búnker Estratégico** del modelo de decisión diseñado para gerentes senior y equipos de consultoría que operan en entornos **IA-driven**.
+Este repositorio centraliza la arquitectura metodológica y el modelo de decisión diseñado para la alta gerencia y consultoría estratégica en entornos de integración de Inteligencia Artificial (IA-driven).
 
-## Tesis Central
-En la era de la automatización acelerada, la verdadera ventaja competitiva no reside en la velocidad del procesamiento, sino en la **Soberanía del Criterio**. Este modelo permite a los líderes senior auditar, interpretar y contextualizar los resultados algorítmicos, transformando la veteranía en el "software" de gestión más avanzado del mercado.
+## Propuesta de Valor
+En contextos de automatización avanzada, la eficiencia operativa por sí sola es insuficiente para generar ventajas competitivas sostenibles. El modelo propone la **Soberanía del Criterio** como el eje de la gobernanza corporativa, permitiendo que el perfil Senior audite, interprete y contextualice los outputs algorítmicos. La metodología transforma la experiencia acumulada en un sistema de verificación y síntesis indispensable para la toma de decisiones críticas.
 
 ## Framework de Decisión 5.0 (Mapa Mental)
 
