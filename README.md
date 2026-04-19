@@ -194,6 +194,21 @@ Especialista en la **Construcción y Alineación de Ecosistemas Digitales de Alt
 
 [![El Algoritmo De La Experiencia (Edición Español)](https://img.shields.io/badge/Comprar-ALGORITMO_EXPERIENCIA-E67E22?style=for-the-badge&logo=bookstack)](https://books2read.com/ElAlgoritmodelaExperienciaOswaldoAmare)
 
+
+**Available Now: Human Prompting Expanded Edition (CaaC + 30 Strategic Prompts)**
+
+<div align="center">
+  
+![IMG_20260418_225822.jpg](https://github.com/user-attachments/assets/e583b708-93cc-408e-9d9b-d398e672d3a8)
+
+
+  ### Get it Now
+  ## Human Prompting Expanded Edition: CaaC plus 30 Strategic Prompts Full Pack
+
+  <a href="https://payhip.com/b/sq0ad" class="payhip-buy-button" data-theme="green" data-product="sq0ad">Buy Now</a>
+</div>
+
+
 *© 2026 Oswaldo Amaré.Todos los derechos reservados.*
 
 ©All rights reserved  
