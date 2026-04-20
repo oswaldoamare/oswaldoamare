@@ -159,6 +159,11 @@ Read “Seniority as the Operating System for Digital Transformation“ by Oswal
 
 ![1776142475955.jpg](https://github.com/user-attachments/assets/47faeaaf-ae23-4299-b4d5-feaa1005f15b)
 
+ “El fin de la "Inteligencia" y el nacimiento de la Arquitectura Contextual“ by Oswaldo Amaré on Medium (Issue #16)
+
+![1776620891656.jpg](https://github.com/user-attachments/assets/3d53036a-8a4b-486d-8296-5697fb31f6cd)
+
+ https://oswaldoamare.medium.com/el-fin-de-la-inteligencia-y-el-nacimiento-de-la-arquitectura-contextual-20a03fba82dd
 
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
