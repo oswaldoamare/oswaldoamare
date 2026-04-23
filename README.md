@@ -165,6 +165,14 @@ Read “Seniority as the Operating System for Digital Transformation“ by Oswal
 
  https://oswaldoamare.medium.com/el-fin-de-la-inteligencia-y-el-nacimiento-de-la-arquitectura-contextual-20a03fba82dd
 
+La Soberanía del Criterio Intelectusl del Gerente Latinoaméricano: Un Manifiesto desde El Asfalto by Oswaldo Amaré in Medium (Issue #17)
+
+Read “LA SOBERANÍA DEL CRITERIO INTELECTUAL DEL GERENTE LATINOAMERICANO: UN MANIFIESTO DESDE EL ASFALTO“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/la-soberan%C3%ADa-del-criterio-intelectual-del-gerente-latinoamericano-un-manifiesto-desde-el-asfalto-653cc23fd440
+
+![1776955556580.jpg](https://github.com/user-attachments/assets/cae67296-b3be-4a44-bbcf-d19db85afc87)
+
+
+
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
 
