@@ -172,6 +172,14 @@ Read “LA SOBERANÍA DEL CRITERIO INTELECTUAL DEL GERENTE LATINOAMERICANO: U
 ![1776955556580.jpg](https://github.com/user-attachments/assets/cae67296-b3be-4a44-bbcf-d19db85afc87)
 
 
+La Crisis de la Arquitectura Mental: Por Qué El Seniority es el Sistema Operativo del Futuro by Oswaldo Amaré on Medium (Issue #18)
+
+Read “LA CRISIS DE LA ARQUITECTURA MENTAL: POR QUÉ EL SENIORITY ES EL SISTEMA OPERATIVO DEL FUTURO
+​Por…“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/la-crisis-de-la-arquitectura-mental-por-qu%C3%A9-el-seniority-es-el-sistema-operativo-del-futuro-por-57690bd91b39
+
+![IMG-20260425-WA0000~2.jpg](https://github.com/user-attachments/assets/da1d3daa-f586-415a-a39d-d3afe6e0996a)
+
+
 
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
