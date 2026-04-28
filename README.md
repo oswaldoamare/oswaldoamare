@@ -180,6 +180,20 @@ Read “LA CRISIS DE LA ARQUITECTURA MENTAL: POR QUÉ EL SENIORITY ES EL SISTEMA
 ![IMG-20260425-WA0000~2.jpg](https://github.com/user-attachments/assets/da1d3daa-f586-415a-a39d-d3afe6e0996a)
 
 
+THE MYTH OF REPLACEMENT:THE EXPERIENCE ALGORITHM AND HUMAN ORCHESTRATION IN THE AGE OF AI
+
+A Siystemic critique of Sam Altman's tesis and they reconfiguration of leadership (Issue #19)
+by Oswaldo Amaré on Medium:
+
+
+
+ https://oswaldoamare.medium.com/the-myth-of-replacement-the-experience-algorithm-and-human-orchestration-in-the-age-of-ai-23e9306f5e62
+
+
+
+![IMG-20260427-WA0021(1).jpg](https://github.com/user-attachments/assets/32f4ab31-aa99-4348-b0d5-91ea091724e3)
+
+
 
 
 🛡️ Certificación de Integridad y Propiedad Intelectual
