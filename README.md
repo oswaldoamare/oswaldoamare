@@ -223,8 +223,10 @@ https://open.substack.com/pub/oswaldoamare/p/orchestrating-the-future-technologi
 ![pen drive hp computadora acer viejas 658~2 (1).jpg](https://github.com/user-attachments/assets/4a2d49ae-c8ff-4421-b5b8-f6ac312ac96e)
 
 
+---
+
 GEO + INBOUND: THE VISIBILITY ARCHITECTURE IN GENERATIVE ENVIRONMENTS
-by Oswaldo Amaré 
+by Oswaldo Amaré (Issue #22)
 
 https://open.substack.com/pub/oswaldoamare/p/geo-inbound-the-visibility-architecture?utm_source=share&utm_medium=android&r=7z3adf
 
