@@ -223,6 +223,19 @@ https://open.substack.com/pub/oswaldoamare/p/orchestrating-the-future-technologi
 ![pen drive hp computadora acer viejas 658~2 (1).jpg](https://github.com/user-attachments/assets/4a2d49ae-c8ff-4421-b5b8-f6ac312ac96e)
 
 
+GEO + INBOUND: THE VISIBILITY ARCHITECTURE IN GENERATIVE ENVIRONMENTS
+by Oswaldo Amaré 
+
+https://open.substack.com/pub/oswaldoamare/p/geo-inbound-the-visibility-architecture?utm_source=share&utm_medium=android&r=7z3adf
+
+![1779130952620~2.jpg](https://github.com/user-attachments/assets/774224c7-903b-455e-b2df-e13e225add8b)
+
+Figure 1: The GEO and Inbound Convergence Model by Oswaldo Amaré. A visual framework demonstrating the transformation of traditional strategic Inbound metrics into structured, machine-interpretable knowledge nodes designed for generative ecosystem discovery.
+
+![1779142745465~2.jpg](https://github.com/user-attachments/assets/e5bc55d7-5397-40eb-8ea6-9186cb06ca8a)
+
+Figure 2: The GEO Operational Framework by Oswaldo Amaré. A technical breakdown of the structural ingestion process, mapping the deployment of Entity Anchoring, Contextual Architecture, and Intent Alignment to secure inclusion within the synthetic answer pipeline.
+
 
 
 ---
