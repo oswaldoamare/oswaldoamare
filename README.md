@@ -149,6 +149,7 @@ https://oswaldoamare.medium.com/principios-antiguos-para-el-liderazgo-moderno-4e
 
 ![IMG-20260410-WA0000.jpg](https://github.com/user-attachments/assets/bc9d33bd-0caa-48de-b384-60abba3d68e0)
 
+---
 
 Seniority as the Operating System for Digital Transformation
 
@@ -165,12 +166,15 @@ Read “Seniority as the Operating System for Digital Transformation“ by Oswal
 
  https://oswaldoamare.medium.com/el-fin-de-la-inteligencia-y-el-nacimiento-de-la-arquitectura-contextual-20a03fba82dd
 
+---
+
 La Soberanía del Criterio Intelectusl del Gerente Latinoaméricano: Un Manifiesto desde El Asfalto by Oswaldo Amaré in Medium (Issue #17)
 
 Read “LA SOBERANÍA DEL CRITERIO INTELECTUAL DEL GERENTE LATINOAMERICANO: UN MANIFIESTO DESDE EL ASFALTO“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/la-soberan%C3%ADa-del-criterio-intelectual-del-gerente-latinoamericano-un-manifiesto-desde-el-asfalto-653cc23fd440
 
 ![1776955556580.jpg](https://github.com/user-attachments/assets/cae67296-b3be-4a44-bbcf-d19db85afc87)
 
+---
 
 La Crisis de la Arquitectura Mental: Por Qué El Seniority es el Sistema Operativo del Futuro by Oswaldo Amaré on Medium (Issue #18)
 
@@ -179,6 +183,7 @@ Read “LA CRISIS DE LA ARQUITECTURA MENTAL: POR QUÉ EL SENIORITY ES EL SISTEMA
 
 ![IMG-20260425-WA0000~2.jpg](https://github.com/user-attachments/assets/da1d3daa-f586-415a-a39d-d3afe6e0996a)
 
+---
 
 THE MYTH OF REPLACEMENT:THE EXPERIENCE ALGORITHM AND HUMAN ORCHESTRATION IN THE AGE OF AI
 
@@ -215,6 +220,8 @@ In an age of synthetic intelligence, this publication defines the irreducible mo
 
 Read “The Automation Paradox: Human Governance as the Ultimate Authority Bunker“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/the-automation-paradox-human-governance-as-the-ultimate-authority-bunker-7270c36e4309
 
+
+---
 
 Orchestrating the Future: Technological Democratization for Competitiveness in LATAM (Issue #21)
 by Oswaldo Amaré 
