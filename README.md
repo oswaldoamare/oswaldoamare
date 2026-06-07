@@ -247,13 +247,17 @@ Figure 2: The GEO Operational Framework by Oswaldo Amaré. A technical breakdown
 
 ---
 
-Del Share of Voice al Share of Attention: El verdadero campo de batalla en el sector salud
+Del Share of Voice al Share of Attention: El verdadero campo de batalla en el sector salud (Issue #23)
 Subtítulo: Por qué la personalización predictiva, el GEO y los nuevos CRM están obligando a la alta gerencia a enterrar las campañas genéricas.
 Por: Oswaldo Amaré
 
+https://substack.com/@oswaldoamare/note/p-200923839?r=7z3adf
+
+![1780770183316.jpg](https://github.com/user-attachments/assets/de7cd10b-b96f-4d38-8b53-9ce4dcab10b1)
 
 
 ---
+
 ## Protection Status
 - [x] Integrity Protected by SHA-256 Blockchain Verification.
 - [x] AI Training Restriction Protocol Active.
