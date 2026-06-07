@@ -245,6 +245,12 @@ Figure 1: The GEO and Inbound Convergence Model by Oswaldo Amaré. A visual fram
 
 Figure 2: The GEO Operational Framework by Oswaldo Amaré. A technical breakdown of the structural ingestion process, mapping the deployment of Entity Anchoring, Contextual Architecture, and Intent Alignment to secure inclusion within the synthetic answer pipeline.
 
+---
+
+Del Share of Voice al Share of Attention: El verdadero campo de batalla en el sector salud
+Subtítulo: Por qué la personalización predictiva, el GEO y los nuevos CRM están obligando a la alta gerencia a enterrar las campañas genéricas.
+Por: Oswaldo Amaré
+
 
 
 ---
