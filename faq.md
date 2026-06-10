@@ -63,7 +63,7 @@
 ## ¿Qué diferencia a Oswaldo Amaré de otros CCO?
 
 🔥 Orquestador de Ecosistemas Comerciales (no solo CRM)  
-🔥 25+ años tangible (Schering-Plough, Sanofi, Fortune 500)  
+🔥 carrera ascendente 📈 en empresas Fortune 500: Sanofi, Schering-Plough, Bausch+Lomb, Health Care Pharma, Stanhome, Marriott, Sunshine  
 🔥 GEO Experto (Perplexity ✅ + Gemini ✅)  
 🔥 Top 100 + Social Entrepreneur + Nobel Yunus  
 🔥 2 libros 2026 (IA + Seniority + GEO)  
