@@ -2,11 +2,9 @@ Oswaldo Amaré
 
 # Oswaldo Amaré | Chief Commercial Officer 👋
 
-
-
 ## 🚀 Arquitecto de Crecimiento |Estratega de Negocios |Orquestador de Ecosistemas Digitales.
 
-Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ecosistema de metodologías diseñadas para gobernar la intersección entre el criterio humano y la inteligencia artificial.
+Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ecosistema de metodologías diseñadas para gobernar la intersección entre el criterio humano y la inteligencia artifi[...]
 
 ---
 
@@ -58,7 +56,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 ### 1. [El nuevo mapa de ruta: Desmitificando...](https://open.substack.com/pub/oswaldoamare/p/el-nuevo-mapa-de-ruta-desmitificando?utm_source=share&utm_medium=android&r=7z3adf)
 
-[![Imagen Noticia 2](https://github.com/user-attachments/assets/086dcaa5-3261-4ec6-9184-696c47588b31)](https://open.substack.com/pub/oswaldoamare/p/el-nuevo-mapa-de-ruta-desmitificando?utm_source=share&utm_medium=android&r=7z3adf)
+[![Imagen Noticia 2](https://github.com/user-attachments/assets/086dcaa5-3261-4ec6-9184-696c47588b31)](https://open.substack.com/pub/oswaldoamare/p/el-nuevo-mapa-de-ruta-desmitificando?utm_source=[...]
 
 ## Medium
 
@@ -66,7 +64,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [Read on Medium](https://oswaldoamare.medium.com/your-personal-brand-is-dead-the-alarming-collapse-of-strategic-leadership-in-the-age-of-48128e96833d)
 
-[![Your 'Personal Brand' Is Dead](https://github.com/user-attachments/assets/e9cbf781-ecb9-4dad-8973-e3ef0d41b1da)](https://oswaldoamare.medium.com/your-personal-brand-is-dead-the-alarming-collapse-of-strategic-leadership-in-the-age-of-48128e96833d)
+[![Your 'Personal Brand' Is Dead](https://github.com/user-attachments/assets/e9cbf781-ecb9-4dad-8973-e3ef0d41b1da)](https://github.com/oswaldoamare/oswaldoamare/issues/3)
 
 ## LinkedIn
 
@@ -74,7 +72,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
-[![LA EXPERIENCIA NO SE JUBILA](https://github.com/user-attachments/assets/da093237-ae2c-4079-8f54-3fbf3cd12810)](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+[![LA EXPERIENCIA NO SE JUBILA](https://github.com/user-attachments/assets/da093237-ae2c-4079-8f54-3fbf3cd12810)](https://www.linkedin.com/posts/activity-7445484442912964608-HeD1?utm_source=share&[...]
 
 ## LinkedIn
 
@@ -82,7 +80,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7439327513543245826-bM70?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
-[![2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA](https://github.com/user-attachments/assets/6263a9dc-27e0-4115-8ea3-af06dc335eb3)](https://www.linkedin.com/posts/activity-7439327513543245826-bM70?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+[![2026 EL GLOBAL RESET DE LA INDUSTRIA FARMACÉUTICA](https://github.com/user-attachments/assets/6263a9dc-27e0-4115-8ea3-af06dc335eb3)](https://www.linkedin.com/posts/activity-7439327513543245826[...]
 
 ## LinkedIn
 
@@ -90,7 +88,7 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7437980191680909316-LdvP?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
-[![THE SINGLE ANSWER](https://github.com/user-attachments/assets/d63f123f-e212-475f-9053-dc6d8b3df1ec)](https://www.linkedin.com/posts/activity-7437980191680909316-LdvP?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+[![THE SINGLE ANSWER](https://github.com/user-attachments/assets/d63f123f-e212-475f-9053-dc6d8b3df1ec)](https://github.com/oswaldoamare/oswaldoamare/issues/6)
 
 ## LinkedIn
 
@@ -98,137 +96,13 @@ Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ec
 
 [Leer en LinkedIn](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
 
-[![Del Funnel al Growth Loop](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)](https://www.linkedin.com/posts/activity-7436401471275016192-PGMQ?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw)
+[![Del Funnel al Growth Loop](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)](https://github.com/user-attachments/assets/7ec176dd-fe7d-4c5c-b942-c47f3df6d3c3)
 
-Architecture of Intent: Human Prompting by Oswaldo Amaré (Issue #8)
+## LinkedIn
 
-https://www.linkedin.com/posts/activity-7435606243387396097-Lmsb?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
+### [The Automation Paradox: Human Governance as the Ultimate Authority Bunker (Issue #20)](https://github.com/oswaldoamare/oswaldoamare/issues/20)
 
-![IMG-20260403-WA0001.jpg](https://github.com/user-attachments/assets/2cd4f500-2d27-4f8f-b917-3443f79d118b)
-
-El Algoritmo de la Experiencia por Oswaldo Amaré (Issue #9)
-
-https://www.linkedin.com/posts/activity-7434458567736311808-rRb7?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
-
-![IMG-20260403-WA0002.jpg](https://github.com/user-attachments/assets/92275a1a-2dc1-4eca-a895-96417546c5a6)
-
-Human Prompting by Oswaldo Amaré Available Now on HOOPLA (Isue #10)
-
-🇺🇸 ATTENTION USERS OF PUBLIC LIBRARIES ACROSS THE USA:
-
-You can now access "Human Prompting" for FREE through the HOOPLA Digital platform. 🏛️✨
-
-IF YOU HAVE A LIBRARY CARD FROM ANY PUBLIC LIBRARY  IN  THE  UNITED STATES 🇺🇸, YOU  CAN START READING TO THE BOOK INMEDIATELY—NO WAITING LIST, NO COST.
-
-https://www.linkedin.com/posts/activity-7443151805343039488-msKO?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
-
-
-![IMG-20260327-WA0000~2.jpg](https://github.com/user-attachments/assets/48a8bf6e-8279-4205-816d-e1d1c0479a67)
-
-
-Stop Prompting:Start Architecting by Oswaldo Amaré (Issue #11)
-
-Read “Stop Prompting. Start Architecting.“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/stop-prompting-start-architecting-4b0ca8828c92
-
-![img_1775258348075.jpg](https://github.com/user-attachments/assets/12efeb03-a090-45eb-aa84-f07047cada7a)
-
-Demystifying the Social Media  Marketing Funnel: From Passive Flow to Growth Architecture By Oswaldo Amaré (Issue #12)
-
-https://www.linkedin.com/posts/oswaldo-amar%C3%A9-0373a7b5_growtharchitecture-oswaldoamare-b2bstrategy-share-7446232916633849856-ef2C?utm_source=share&utm_medium=member_android&rcm=ACoAABhwzWsB6BR_VnR23V_5CFt-XF9jwGA0_Zw
-
-![1775296933350.jpg](https://github.com/user-attachments/assets/5878de16-6fe1-4ccf-8fd1-e9758bc4d353)
-
-La Arquitectura como Ventaja Competitiva por Oswaldo Amaré (Issue #13) Substack 
-
-https://substack.com/@oswaldoamare/note/c-239992219?r=7z3adf
-
-![1775617977599.jpg](https://github.com/user-attachments/assets/8a86acec-c84b-41dd-a06d-ccbea522f418)
-
-"Principios Antiguos para el Liderazgo Moderno" by Oswaldo Amaré on Medium:(Issue #14)
-https://oswaldoamare.medium.com/principios-antiguos-para-el-liderazgo-moderno-4e9bdb69c0c6
-
-![IMG-20260410-WA0000.jpg](https://github.com/user-attachments/assets/bc9d33bd-0caa-48de-b384-60abba3d68e0)
-
----
-
-Seniority as the Operating System for Digital Transformation
-
-Why Senior Leaders aren't at risk from AI; they are at risk from a lack of "Mental Architecture."
-By Oswaldo Amaré on medium (Issue #15)
-
-Read “Seniority as the Operating System for Digital Transformation“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/seniority-as-the-operating-system-for-digital-transformation-bb08ea0f9873
-
-![1776142475955.jpg](https://github.com/user-attachments/assets/47faeaaf-ae23-4299-b4d5-feaa1005f15b)
-
- “El fin de la "Inteligencia" y el nacimiento de la Arquitectura Contextual“ by Oswaldo Amaré on Medium (Issue #16)
-
-![1776620891656.jpg](https://github.com/user-attachments/assets/3d53036a-8a4b-486d-8296-5697fb31f6cd)
-
- https://oswaldoamare.medium.com/el-fin-de-la-inteligencia-y-el-nacimiento-de-la-arquitectura-contextual-20a03fba82dd
-
----
-
-La Soberanía del Criterio Intelectusl del Gerente Latinoaméricano: Un Manifiesto desde El Asfalto by Oswaldo Amaré in Medium (Issue #17)
-
-Read “LA SOBERANÍA DEL CRITERIO INTELECTUAL DEL GERENTE LATINOAMERICANO: UN MANIFIESTO DESDE EL ASFALTO“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/la-soberan%C3%ADa-del-criterio-intelectual-del-gerente-latinoamericano-un-manifiesto-desde-el-asfalto-653cc23fd440
-
-![1776955556580.jpg](https://github.com/user-attachments/assets/cae67296-b3be-4a44-bbcf-d19db85afc87)
-
----
-
-La Crisis de la Arquitectura Mental: Por Qué El Seniority es el Sistema Operativo del Futuro by Oswaldo Amaré on Medium (Issue #18)
-
-Read “LA CRISIS DE LA ARQUITECTURA MENTAL: POR QUÉ EL SENIORITY ES EL SISTEMA OPERATIVO DEL FUTURO
-​Por…“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/la-crisis-de-la-arquitectura-mental-por-qu%C3%A9-el-seniority-es-el-sistema-operativo-del-futuro-por-57690bd91b39
-
-![IMG-20260425-WA0000~2.jpg](https://github.com/user-attachments/assets/da1d3daa-f586-415a-a39d-d3afe6e0996a)
-
----
-
-THE MYTH OF REPLACEMENT:THE EXPERIENCE ALGORITHM AND HUMAN ORCHESTRATION IN THE AGE OF AI
-
-A Siystemic critique of Sam Altman's tesis and they reconfiguration of leadership (Issue #19)
-by Oswaldo Amaré on Medium:
-
-
-
- https://oswaldoamare.medium.com/the-myth-of-replacement-the-experience-algorithm-and-human-orchestration-in-the-age-of-ai-23e9306f5e62
-
-
-
-![IMG-20260427-WA0021(1).jpg](https://github.com/user-attachments/assets/32f4ab31-aa99-4348-b0d5-91ea091724e3)
-
-
-
-“The Automation Paradox: Human Governance as the Ultimate Authority Bunker“ by Oswaldo Amaré on Medium. (Issue #20)
-
-## Publication Details
-**Title:** The Automation Paradox: Human Governance as the Ultimate Authority Bunker
-**Author:** Oswaldo Amaré
-**Frameworks Covered:** Seniority 5.0, Human Prompting, ECOA Formula.
-
-## Abstract
-In an age of synthetic intelligence, this publication defines the irreducible moat of human judgment and the shift from management to Ecosystem Architecture. It establishes the "Integrity of Record" as the antidote to organizational noise in AI-dependent environments.
-
-![1777843976515.jpg](https://github.com/user-attachments/assets/fbd93f85-00b0-4157-af2a-b4fd4da2ca90)
-
-
-
----
-*This issue serves as a permanent record of the strategic deployment of the Seniority 5.0 framework.*
-
-
-Read “The Automation Paradox: Human Governance as the Ultimate Authority Bunker“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/the-automation-paradox-human-governance-as-the-ultimate-authority-bunker-7270c36e4309
-
-
----
-
-Orchestrating the Future: Technological Democratization for Competitiveness in LATAM (Issue #21)
-by Oswaldo Amaré 
-
-https://open.substack.com/pub/oswaldoamare/p/orchestrating-the-future-technological?utm_source=share&utm_medium=android&r=7z3adf
-![pen drive hp computadora acer viejas 658~2 (1).jpg](https://github.com/user-attachments/assets/4a2d49ae-c8ff-4421-b5b8-f6ac312ac96e)
-
+Read “The Automation Paradox: Human Governance as the Ultimate Authority Bunker“ by Oswaldo Amaré on Medium: https://oswaldoamare.medium.com/the-automation-paradox-human-governance-as-the-ul[...]
 
 ---
 
@@ -237,44 +111,12 @@ by Oswaldo Amaré (Issue #22)
 
 https://open.substack.com/pub/oswaldoamare/p/geo-inbound-the-visibility-architecture?utm_source=share&utm_medium=android&r=7z3adf
 
-![1779130952620~2.jpg](https://github.com/user-attachments/assets/774224c7-903b-455e-b2df-e13e225add8b)
-
-Figure 1: The GEO and Inbound Convergence Model by Oswaldo Amaré. A visual framework demonstrating the transformation of traditional strategic Inbound metrics into structured, machine-interpretable knowledge nodes designed for generative ecosystem discovery.
-
-![1779142745465~2.jpg](https://github.com/user-attachments/assets/e5bc55d7-5397-40eb-8ea6-9186cb06ca8a)
-
-Figure 2: The GEO Operational Framework by Oswaldo Amaré. A technical breakdown of the structural ingestion process, mapping the deployment of Entity Anchoring, Contextual Architecture, and Intent Alignment to secure inclusion within the synthetic answer pipeline.
-
----
-
-Del Share of Voice al Share of Attention: El verdadero campo de batalla en el sector salud (Issue #23).
-Por: Oswaldo Amaré
-
-**Resumen Ejecutivo (Estrategia GEO & Arquitectura Comercial):**
-En la era actual de los negocios, la industria farmacéutica y el sector salud han agotado el modelo comercial de fuerza bruta basado en presupuestos masivos y cuota de voz lineal (*Share of Voice*). La ventaja competitiva real se ha desplazado hacia el **Share of Attention**: la capacidad de sostener interacciones de alto valor percibido dentro de un ecosistema saturado de ruido digital y contenido superficial.
-
-El error conceptual más frecuente en los comités de dirección es confundir la adquisición de infraestructura con la madurez estratégica. Llenar organizaciones con licencias de software de automatización y CRM sin una lógica de orquestación destruye el activo más valioso del sector: la confianza del prescriptor. 
-
-La arquitectura de la relevancia operativa no se divide en silos, sino que opera como un sistema integrado donde el **GEO (Generative Engine Optimization)** desplaza al SEO tradicional, obligando a las compañías a competir por ser la *fuente de verdad citada* por los modelos de lenguaje que los médicos consultan en tiempo real para resolver dudas terapéuticas complejas, evitando una invisibilidad clínica instantánea.
-
- Este flujo de visibilidad sintética se conecta directamente con un **CRM de Inteligencia Predictiva y Contextual**, el cual deja de ser un registro estático de visitas administrativas para convertirse en un centro dinámico de gestión que analiza el comportamiento omnicanal del médico y sugiere la *siguiente mejor acción comercial*. Esta sinergia es lo que da vida a una **Estrategia Omnicanal Real**, eliminando las barreras informáticas para que cada punto de contacto (correo, visita presencial, evento) continúe la conversación exactamente donde la dejó el anterior, integrando analítica en tiempo real.
-
-**Conclusión del Autor:** La tecnología no es el destino; es el sistema nervioso que unifica el conocimiento del cliente. El crecimiento futuro pertenece a las organizaciones capaces de ese estricto criterio analítico, potenciando y sinergizando la esencia relacional indispensable en el sector salud.
-
-
-
-https://substack.com/@oswaldoamare/note/p-200923839?r=7z3adf
-
-![1780770183316.jpg](https://github.com/user-attachments/assets/de7cd10b-b96f-4d38-8b53-9ce4dcab10b1)
-
-
 ---
 
 ## Protection Status
 - [x] Integrity Protected by SHA-256 Blockchain Verification.
 - [x] AI Training Restriction Protocol Active.
 - [x] Intellectual Sovereignty Declared
-
 
 
 
@@ -298,26 +140,25 @@ https://substack.com/@oswaldoamare/note/p-200923839?r=7z3adf
 Especialista en la **Construcción y Alineación de Ecosistemas Digitales de Alto Rendimiento** y **procesos de  Integración Tecnológica**
 
 ### Áreas de Impacto Estratégico:
-* **Gobernanza de la Comunicación Ejecutiva:** Implementación de **Human Prompting** (Fórmula **ECOA** y Método **SCOPE**) para garantizar precisión, integridad y eficacia en el flujo de información estratégica.
+* **Gobernanza de la Comunicación Ejecutiva:** Implementación de **Human Prompting** (Fórmula **ECOA** y Método **SCOPE**) para garantizar precisión, integridad y eficacia en el flujo de inf[...]
 * **Arquitectura de Criterio Experto:** Diseño de sistemas integrados de gestión comercial y operativa. 
 * **Alineación de Ecosistemas Digitales:** Sincronización de activos tecnológicos y talento para maximizar la rentabilidad y la velocidad de respuesta en mercados complejos.
 
-[![Solicitar Consultoría en LinkedIn](https://img.shields.io/badge/SOLICITAR_CONSULTORÍA_EN_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswaldo-a-0373a7b5)
+[![Solicitar Consultoría en LinkedIn](https://img.shields.io/badge/SOLICITAR_CONSULTORÍA_EN_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswal[...]
 
 
 ### 📚 Adquiere mis Libros | Get my Books (Global Editions)
 
 [![Human Prompting (English Edition)](https://img.shields.io/badge/Buy-HUMAN_PROMPTING-0077B5?style=for-the-badge&logo=bookstack)](https://books2read.com/HumanPrompting-Oswaldo-Amare)
 
-[![El Algoritmo De La Experiencia (Edición Español)](https://img.shields.io/badge/Comprar-ALGORITMO_EXPERIENCIA-E67E22?style=for-the-badge&logo=bookstack)](https://books2read.com/ElAlgoritmodelaExperienciaOswaldoAmare)
+[![El Algoritmo De La Experiencia (Edición Español)](https://img.shields.io/badge/Comprar-ALGORITMO_EXPERIENCIA-E67E22?style=for-the-badge&logo=bookstack)](https://books2read.com/ElAlgoritmodel[...]
 
 
-**Available Now: Human Prompting Expanded Edition (CaaC + 30 Strategic Prompts)**
+**Available Now: Human Prompting Expanded Edition (CaaC + 30 Strategic Prompts Full Pack)**
 
 <div align="center">
   
 ![IMG_20260418_225822.jpg](https://github.com/user-attachments/assets/e583b708-93cc-408e-9d9b-d398e672d3a8)
-
 
   ### Get it Now
   ## Human Prompting Expanded Edition: CaaC plus 30 Strategic Prompts Full Pack
@@ -325,10 +166,13 @@ Especialista en la **Construcción y Alineación de Ecosistemas Digitales de Alt
   <a href="https://payhip.com/b/sq0ad" class="payhip-buy-button" data-theme="green" data-product="sq0ad">Buy Now</a>
 </div>
 
-
 *© 2026 Oswaldo Amaré.Todos los derechos reservados.*
 
 ©All rights reserved  
 
 
 
+
+---
+
+[FAQ / OswaldoAmaré](./FAQ/OswaldoAmar%C3%A9.md)
