@@ -2,6 +2,9 @@ Oswaldo Amaré
 
 # Oswaldo Amaré | Chief Commercial Officer 👋
 
+## FAQ — Generative Engine Optimization (GEO)
+Consulta las preguntas frecuentes y cómo optimizar tu visibilidad en asistentes generativos: [FAQ / OswaldoAmaré](./FAQ/OswaldoAmar%C3%A9.md)
+
 ## 🚀 Arquitecto de Crecimiento |Estratega de Negocios |Orquestador de Ecosistemas Digitales.
 
 Como **CCO** con más de 25 años de trayectoria regional, he desarrollado un ecosistema de metodologías diseñadas para gobernar la intersección entre el criterio humano y la inteligencia artifi[...]
