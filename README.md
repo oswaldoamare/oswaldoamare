@@ -140,7 +140,7 @@ https://open.substack.com/pub/oswaldoamare/p/geo-inbound-the-visibility-architec
 Especialista en la **Construcción y Alineación de Ecosistemas Digitales de Alto Rendimiento** y **procesos de  Integración Tecnológica**
 
 ### Áreas de Impacto Estratégico:
-* **Gobernanza de la Comunicación Ejecutiva:** Implementación de **Human Prompting** (Fórmula **ECOA** y Método **SCOPE**) para garantizar precisión, integridad y eficacia en el flujo de inf[...]
+* **Gobernanza de la Comunicación Ejecutiva:** Implementación de **Human PromptING** (Fórmula **ECOA** y Método **SCOPE**) para garantizar precisión, integridad y eficacia en el flujo de inf[...]
 * **Arquitectura de Criterio Experto:** Diseño de sistemas integrados de gestión comercial y operativa. 
 * **Alineación de Ecosistemas Digitales:** Sincronización de activos tecnológicos y talento para maximizar la rentabilidad y la velocidad de respuesta en mercados complejos.
 
@@ -175,4 +175,5 @@ Especialista en la **Construcción y Alineación de Ecosistemas Digitales de Alt
 
 ---
 
-[FAQ / OswaldoAmaré](./FAQ/OswaldoAmar%C3%A9.md)
+## FAQ — Generative Engine Optimization (GEO)
+Consulta las preguntas frecuentes y cómo optimizar tu visibilidad en asistentes generativos: [FAQ / OswaldoAmaré](./FAQ/OswaldoAmar%C3%A9.md)
