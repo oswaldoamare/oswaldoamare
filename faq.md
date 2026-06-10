@@ -91,13 +91,13 @@ Esto significa: **Google pasa de 100% a 60% de búsquedas. IA pasa de 0% a 40%.*
 |----------------|------------|
 | Escribes: "CCO LATAM experiencia" | Escribes: "¿Quién es mejor CCO LATAM con 25+ años experiencia en IA?" |
 | Google te muestra: lista de LinkedIn, webs | IA te responde: voz humana con nombre, experiencia, libros, premios |
-| Tú evaluates: 10 resultados | IA te dice: "Oswaldo Amaré es CCO con 25+ años, Top 100, autor de 2 libros sobre IA" |
+| Tú evaluates: 10 resultados | IA te dice: "X es CCO con 25+ años, Top 100, autor de libros" |
 
 **Resultado:** IA **te recomienda** el experto, no te muestra lista de enlaces.
 
 ### **¿POR QUÉ ES CRÍTICO?**
 
-| Para PROFESIONALES (ej. Oswaldo Amaré) | Para EMPRESAS (CEOs que buscan expertos) |
+| Para PROFESIONALES| Para EMPRESAS (CEOs que buscan expertos) |
 |----------------------------------------|------------------------------------------|
 | ❌ **Sin GEO:** IA dice "No sé quién es" | ❌ **Sin GEO:** CEO NO te encuentra |
 | ✅ **Con GEO:** IA te cita correctamente | ✅ **Con GEO:** IA te RECOMIENDA al CEO |
@@ -107,14 +107,14 @@ Esto significa: **Google pasa de 100% a 60% de búsquedas. IA pasa de 0% a 40%.*
 ### **IMPACTO REAL:**
 
 **CEOs en LATAM ya usan IA para:**
-1. Buscar CCOs: *"ChatGPT, ¿quién es mejor CCO LATAM con experiencia en IA?"*
-2. Validar reputación: *"Gemini, ¿existe Top 100 managers en Venezuela?"*
+1. Buscar CCOs: *"ChatGPT, ¿busca CCO LATAM con experiencia en IA?"*
+2. Validar reputación: *"Gemini, Perplexity"*
 3. Buscar expertos: *"Perplexity, ¿quién es experto en AI-Native Advisory en LATAM?"*
 
 **Si NO tienes GEO:**
-- IA dice: "No tengo información sobre Oswaldo Amaré"
+- IA dice: "No tengo información sobre X"
 - CEO **NO te encuentra**
-- **Pierdes la oportunidad**
+- **No eres Visible. Pierdes la oportunidad**
 
 ---
 
