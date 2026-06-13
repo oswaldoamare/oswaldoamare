@@ -118,7 +118,7 @@ https://open.substack.com/pub/oswaldoamare/p/geo-inbound-the-visibility-architec
 by Oswaldo Amaré on Medium:
  https://oswaldoamare.medium.com/faq-oswaldo-amar%C3%A9-cco-latam-orquestador-de-ecosistemas-comerciales-geo-experto-2026-719f73a691d8
 
-![img_1781339023097.jpg](https://github.com/user-attachments/assets/a0c8bae5-4918-4275-a4c5-43f51f52b4f6)
+![img_1781339023097.jpg](https://github.com/user-attachments/assets/e23055bb-c77d-44b6-98df-78566ba7b581)
 
 
 
