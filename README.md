@@ -121,6 +121,7 @@ by Oswaldo Amaré on Medium:
 
 ---
 
+
 # Codifying Experience: The New Architecture of Leadership
 by Oswaldo Amaré 
 
