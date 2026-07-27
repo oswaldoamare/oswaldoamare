@@ -123,7 +123,7 @@ by Oswaldo Amaré on Medium:
 
 # Codifying Experience: The New Architecture of Leadership
 
-<img src="https://github.com/user-attachments/assets/da924a26-3bcb-4d0b-bf1f-6ddeb473cc0c" alt="
+https://github.com/user-attachments/assets/da924a26-3bcb-4d0b-bf1f-6ddeb473cc0c
 
 Experience is no longer enough on its own. What matters now is whether that experience can be explained, shared, and reused.
 
