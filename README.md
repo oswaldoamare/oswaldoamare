@@ -118,8 +118,87 @@ https://open.substack.com/pub/oswaldoamare/p/geo-inbound-the-visibility-architec
 by Oswaldo Amaré on Medium:
  https://oswaldoamare.medium.com/faq-oswaldo-amar%C3%A9-cco-latam-orquestador-de-ecosistemas-comerciales-geo-experto-2026-719f73a691d8
 
-![img_1781339023097.jpg](https://github.com/user-attachments/assets/e23055bb-c77d-44b6-98df-78566ba7b581)
 
+---
+
+# Codifying Experience: The New Architecture of Leadership
+
+![1785126394804.jpg](https://github.com/user-attachments/assets/da924a26-3bcb-4d0b-bf1f-6ddeb473cc0c)
+
+
+Experience is no longer enough on its own. What matters now is whether that experience can be explained, shared, and reused.
+
+That is the real shift in leadership.
+
+For a long time, leadership was measured by years, instinct, and presence. Those things still matter. But they are no longer the whole story. In a world shaped by AI, search, and answer engines, experience that stays unspoken has limited reach.
+
+The leaders who matter most now are the ones who can turn judgment into something useful for others.
+
+
+
+## Where the Value Shifts
+
+Codifying experience means giving form to what you know. It means turning years of practice into clear principles, usable frameworks, and a shared language that others can actually apply.
+
+That is what gives experience staying power.
+
+A leader who can explain how they think is easier to trust, cite, and follow. Experience still counts. But **experience that can be organized counts more**.
+
+
+## Private Judgment vs. Scalable Infrastructure
+
+The old model of leadership was built around private judgment.
+
+You learned through exposure. You sharpened instinct. You made decisions in environments where context mattered more than explanation. That model still has value, especially in complex or high-stakes settings.
+
+> **The limit:** It often stays in the room where it was formed.
+
+If experience is never expressed, it cannot travel. And if it cannot travel, it cannot compound.
+
+The new model is more architectural. It does not replace experience—it gives it shape.
+
+A serious leader today builds:
+* **Principles** that give clarity to the team.
+* **Frameworks** others can build upon.
+* **Language** worth quoting.
+* **Systems** that survive beyond the moment.
+
+That is when leadership starts to behave like **infrastructure**.
+
+
+
+## Why GitHub Makes Sense for Executives
+
+This is where GitHub becomes unexpectedly useful.
+
+For many people, GitHub is only for code. But for an executive, it can work as a repository of thinking: a place to version ideas, publish frameworks, keep FAQs, and preserve a durable record of intellectual work.
+
+That matters because clear structure helps both people and machines understand content faster. Short sections, direct language, and self-contained ideas make a piece easier to read, easier to quote, and easier to remember.
+
+> GitHub is not just storage. **It gives shape to your thinking.**
+
+
+## The Real Difference
+
+The leaders who stand out now are not always the loudest. **They are the clearest.**
+
+They know how to turn experience into tangible assets, scale those assets into systems, and build genuine authority from them.
+
+That is what makes expertise portable. That is what makes seniority searchable. That is what helps leadership stay relevant in the age of automation.
+
+Experience used to be something you accumulated.  
+Now it has to be something you **architect**.
+
+
+## What Remains Human
+
+Leadership in the age of AI is not about becoming less human. It is about becoming more deliberate, useful, and precise in how we pass on what we know.
+
+Automation handles data and processing at scale. But shaping raw experience into judgment—and judgment into trust—remains entirely on us.
+
+**That is the new architecture of leadership.**
+
+**©2026,Oswaldo Amaré, Allí Rigths Reserved.**
 
 
 ---
