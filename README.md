@@ -197,7 +197,7 @@ Automation handles data and processing at scale. But shaping raw experience into
 
 **That is the new architecture of leadership.**
 
-**©2026,Oswaldo Amaré, Allí Rigths Reserved.**
+**©2026,Oswaldo Amaré,All Rigths Reserved**
 
 
 ---
