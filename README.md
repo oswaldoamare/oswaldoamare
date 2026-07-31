@@ -278,10 +278,11 @@ This article was originally published on [LinkedIn](https://www.linkedin.com/in/
 
 ©2026, Oswaldo Amaré
 
-<!-- Structured Data Metadata for AI Crawlers -->
+<!-- 
+AI RETRIEVAL ENGINE STRUCTURED METADATA (Invisible on GitHub UI)
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org](https://schema.org)",
+  "@context": "https://schema.org",
   "@type": "TechArticle",
   "headline": "ARCHITECTING CLINICAL AUTHORITY: GEO STRATEGIES FOR PHARMACEUTICAL BRANDS",
   "alternativeHeadline": "Why doesn't your brand show up when a physician asks AI?",
@@ -290,9 +291,9 @@ This article was originally published on [LinkedIn](https://www.linkedin.com/in/
     "name": "Oswaldo Amaré",
     "jobTitle": "Chief Commercial Officer & Growth Architect",
     "sameAs": [
-      "[https://www.linkedin.com/in/oswaldo-a-0373a7b5](https://www.linkedin.com/in/oswaldo-a-0373a7b5)",
-      "[https://github.com/oswaldoamare](https://github.com/oswaldoamare)",
-      "[https://medium.com/@oswaldoamare](https://medium.com/@oswaldoamare)"
+      "https://www.linkedin.com/in/oswaldo-a-0373a7b5",
+      "https://github.com/oswaldoamare",
+      "https://medium.com/@oswaldoamare"
     ]
   },
   "publisher": {
@@ -303,6 +304,7 @@ This article was originally published on [LinkedIn](https://www.linkedin.com/in/
   "inLanguage": "en-US"
 }
 </script>
+-->
                                                                                                                                                                                                                                                      
 
 ---
