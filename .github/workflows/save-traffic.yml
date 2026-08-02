@@ -1,0 +1,41 @@
+name: Save traffic metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # diario UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create output dir
+        run: mkdir -p traffic
+
+      - name: Fetch traffic metrics
+        env:
+          TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          OWNER: oswaldoamare
+          REPO: oswaldoamare
+        run: |
+          set -euo pipefail
+          TS=$(date -u +"%Y-%m-%d")
+
+          echo "Fetching views..."
+          curl -s -H "Accept: application/vnd.github+json" -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$REPO/traffic/views" -o "traffic/views-$TS.json"
+          echo "Status for views: $(jq -r '. | tostring' traffic/views-$TS.json 2>/dev/null || echo 'saved')"
+
+          echo "Fetching clones..."
+          curl -s -H "Accept: application/vnd.github+json" -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$REPO/traffic/clones" -o "traffic/clones-$TS.json"
+
+          echo "Fetching popular paths..."
+          curl -s -H "Accept: application/vnd.github+json" -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$REPO/traffic/popular/paths" -o "traffic/popular_paths-$TS.json"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-traffic-${{ github.run_id }}
+          path: traffic
